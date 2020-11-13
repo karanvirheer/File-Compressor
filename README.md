@@ -57,7 +57,7 @@
 
 ## About The Project
 
-A project made to compress learn and implement the huffman algorithm and loss compression.
+A project made to learn and implement the huffman algorithm and lossless compression.
 
 Allowed for greater understanding of binary trees and their traversal via recursion.
 
@@ -87,7 +87,7 @@ git clone https://github.com/karanvirheer/File-Compressor.git
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+To compress your files up to 53% of their original size. Allows for files to be decompressed back to original size.
 
 <!-- CONTRIBUTING -->
 

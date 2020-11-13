@@ -1,0 +1,9 @@
+{
+    "python.testing.pytestArgs": [
+        "starter"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.autoComplete.extraPaths": ["D:\\Documents - Main\\VS Code\\Python\\a2"]
+}

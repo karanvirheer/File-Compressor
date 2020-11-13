@@ -19,11 +19,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Forks][forks-shield]][https://github.com/karanvirheer/file-compressor/network/members]
-[![Stargazers][stars-shield]][https://github.com/karanvirheer/file-compressor/stargazers]
-[![Issues][issues-shield]][https://github.com/karanvirheer/file-compressor/issues]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/karanvirheer/]
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">

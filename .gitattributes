@@ -1,0 +1,5 @@
+.vscode/* linguist-vendored
+file_compressor/.hypothesis/examples linguist-vendored
+file_compressor/__pycache__ linguist-vendored
+file_compressor/files linguist-vendored
+file_compressor/pyta_report.html linguist-vendored

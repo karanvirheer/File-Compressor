@@ -1,0 +1,6 @@
+# Don't track content of these folders
+.vscode/
+file_compressor/file_compressor
+file_compressor/pyta_report.html
+file_compressor/.hypothesis/examples
+file_compressor/__pycache__

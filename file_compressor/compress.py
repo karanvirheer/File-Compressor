@@ -112,7 +112,7 @@ def _get_min(symbol_list: List[Union[int, HuffmanTree]], freq_list: List[int]) \
 
     symbol_list.append(tree)
     freq_list.append(total)
-    
+
     return symbol_list, freq_list
 
 
@@ -631,7 +631,8 @@ def _post_order_helper(node_lst: List[ReadNode],
         else:
             right_index = len(right_index)
 
-        tree.left = _post_order_helper(node_lst, tree.number, True, right_index)
+        tree.left = _post_order_helper(
+            node_lst, tree.number, True, right_index)
 
         return tree
 
@@ -650,7 +651,8 @@ def _post_order_helper(node_lst: List[ReadNode],
         else:
             right_index = len(right_index)
 
-        tree.left = _post_order_helper(node_lst, tree.number, True, right_index)
+        tree.left = _post_order_helper(
+            node_lst, tree.number, True, right_index)
 
         return tree
 
@@ -819,7 +821,8 @@ if __name__ == "__main__":
         'disable': ['W0401']
     })
 
-    mode = input("Press c to compress, d to decompress, or other key to exit: ")
+    mode = input(
+        "Press c to compress, d to decompress, or other key to exit: ")
     if mode == "c":
         fname = input("File to compress: ")
         start = time.time()

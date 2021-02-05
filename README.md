@@ -28,7 +28,7 @@
   <h3 align="center">File Compressor</h3>
 
   <p align="center">
-    A program utilizing lossless compression and the huffman algorithm.
+    A program utilizing lossless compression and the Huffman Algorithm.
     <br />
     <a href="https://github.com/karanvirheer/File-Compressor"><strong>Explore the docs »</strong></a>
     <br />
@@ -57,7 +57,7 @@
 
 ## About The Project
 
-A project made to learn and implement the huffman algorithm and lossless compression.
+A project made to learn and implement the Huffman Algorithm and lossless compression.
 
 Allowed for greater understanding of binary trees and their traversal via recursion.
 
